@@ -41,7 +41,7 @@ Streamlit
 
 🚀 How to Run This Project
 
-1. Clone the Repository
+1.Clone the Repository
    
 git clone https://github.com/francis23456776/Sentimental-Analysis-of-Product-reviews.git
 
