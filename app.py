@@ -212,7 +212,7 @@ st.markdown("### � Predict Sentiment")
 
 # Model selector
 use_custom = 'model' in st.session_state
-model_label = "🟢 Custom Model (CSV)" if use_custom else "🔵 Built-in Model (VADER)"
+model_label = "Custom Model (CSV)" if use_custom else " Built-in Model (VADER)"
 st.markdown(f'<span class="badge">Active: {model_label}</span>', unsafe_allow_html=True)
 
 input_text = st.text_area("Type or paste any text:", placeholder="e.g. I love this product! It's absolutely amazing.", height=130)
