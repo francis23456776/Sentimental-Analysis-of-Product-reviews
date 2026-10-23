@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-4. Explore the Application
+4.Explore the Application
    
 Open the local URL displayed in your terminal. Enter a product review to analyze its sentiment, or upload a CSV dataset to perform bulk sentiment analysis.
 
